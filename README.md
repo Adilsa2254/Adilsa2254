@@ -30,7 +30,7 @@ I am a passionate developer with years of experience creating beautiful and func
 
 ---
 
-### 🛠️ Skills
+### 🌸 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,nextjs,js,ts,html,css,figma,git&theme=dark" />
@@ -38,7 +38,7 @@ I am a passionate developer with years of experience creating beautiful and func
 
 ---
 
-### 🏆 Certificates
+### 🌸 Certificates
 
 | Certificate | Issuer | Year | Tags |
 |---|---|---|---|
@@ -48,7 +48,7 @@ I am a passionate developer with years of experience creating beautiful and func
 
 ---
 
-### 🎓 Education
+### 🌸 Education
 
 - **Master's in Computer Science** — University of Technology (2021–2023) · GPA 4.0
 - **Bachelor's in Software Engineering** — Institute of Technology (2017–2021) · GPA 3.8
@@ -56,7 +56,7 @@ I am a passionate developer with years of experience creating beautiful and func
 
 ---
 
-### 📊 GitHub stats
+### 🌸 GitHub stats
 
 <p align="center">
   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilsa2254&show_icons=true&theme=radical&hide_border=true&title_color=ff6f9c&icon_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
@@ -67,7 +67,7 @@ I am a passionate developer with years of experience creating beautiful and func
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilsa2254&theme=radical&hide_border=true&background=1a1a2e&ring=ff6f9c&fire=ff6f9c&currStreakLabel=ff6f9c"/>
 </p>
 
-### 🐍 Contribution snake
+### 🌸 Contribution snake
 
 <p align="center">
   <picture>
