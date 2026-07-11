@@ -78,12 +78,12 @@ I am a passionate developer with years of experience creating beautiful and func
 </p>
 
 
-### 🌸 Activity graph
+<!-- ### 🌸 Activity graph -->
  
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adilsa2254&theme=react-dark&bg_color=1a1a2e&color=ff6f9c&line=d6336c&point=ffffff&area=true&hide_border=true" />
 </p>
-
+ -->
 
 ### 🌸 Quote of the day
  
