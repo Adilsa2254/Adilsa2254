@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:d6336c,100:ff8fb1&height=180&section=header&text=Hi,%20I'm%20Adil-Saputra%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:d6336c,100:ff8fb1&height=180&section=header&text=Hi,%20I'm%20Laila%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </h1>
 
 <p align="center">
@@ -65,6 +65,16 @@ I am a passionate developer with years of experience creating beautiful and func
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1a1a2e&ring=ff6f9c&fire=ff6f9c&currStreakLabel=ff6f9c"/>
+</p>
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
