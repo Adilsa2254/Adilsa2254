@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:d6336c,100:ff8fb1&height=180&section=header&text=Hi,%20I'm%20Adil_Saputr%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:d6336c,100:ff8fb1&height=180&section=header&text=Hi,%20I'm%20Adil_Saputra%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D8D&center=true&vCenter=true&width=500&lines=I'm+a+Creator+%F0%9F%8C%B8;Frontend+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D8D&center=true&vCenter=true&width=500&lines=I'm+a+Creator+%F0%9F%8C%B8;Frontend+Developer;UI%2FUX+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
