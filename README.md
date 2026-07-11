@@ -59,8 +59,8 @@ I am a passionate developer with years of experience creating beautiful and func
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilsa2254&show_icons=true&theme=radical&hide_border=true&title_color=ff6f9c&icon_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsa2254&layout=compact&theme=radical&hide_border=true&title_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilsa2254&show_icons=true&theme=radical&hide_border=true&title_color=ff6f9c&icon_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsa2254&layout=compact&theme=radical&hide_border=true&title_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/> -->
 </p>
 
 <p align="center">
