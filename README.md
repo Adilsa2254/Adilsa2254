@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🧑‍🎓 Tentang Saya · About Me
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Business/graduation-cap-line.svg" width="26" height="26"/> Tentang Saya · About Me
 
 <table>
 <tr>
@@ -20,22 +20,22 @@
 
 **🇮🇩 Bahasa Indonesia**
 
-- 🎓 Mahasiswa aktif di **[ISI NAMA KAMPUS & JURUSAN]**
-- 🌱 Sedang belajar pengembangan web: HTML, CSS, JavaScript, dan PHP
-- 💡 Belajar paling efektif lewat praktik langsung dengan project kecil
-- 📌 Masih eksplorasi, belum fokus satu spesialisasi — dan itu wajar
-- 🗣️ Bisa komunikasi dalam Bahasa Indonesia & English
+- Mahasiswa aktif di **[ISI NAMA KAMPUS & JURUSAN]**
+- Sedang belajar pengembangan web: HTML, CSS, JavaScript, dan PHP
+- Belajar paling efektif lewat praktik langsung dengan project kecil
+- Masih eksplorasi, belum fokus satu spesialisasi — dan itu wajar
+- Bisa komunikasi dalam Bahasa Indonesia & English
 
 </td>
 <td width="50%" valign="top">
 
 **🇬🇧 English**
 
-- 🎓 Active student at **[YOUR CAMPUS & MAJOR]**
-- 🌱 Learning web fundamentals: HTML, CSS, JavaScript, PHP
-- 💡 I learn best by building small, real projects
-- 📌 Still exploring — not locked into one specialization yet
-- 🗣️ Comfortable in Indonesian & English
+- Active student at **[YOUR CAMPUS & MAJOR]**
+- Learning web fundamentals: HTML, CSS, JavaScript, PHP
+- I learn best by building small, real projects
+- Still exploring — not locked into one specialization yet
+- Comfortable in Indonesian & English
 
 </td>
 </tr>
@@ -43,7 +43,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Development/code-s-slash-line.svg" width="26" height="26"/> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,figma" alt="tech stack icons"/>
@@ -51,62 +51,74 @@
 
 <table>
 <tr><th>Kategori</th><th>Sedang Dipelajari</th></tr>
-<tr><td>🎨 Frontend</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td></tr>
-<tr><td>⚙️ Backend</td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></td></tr>
-<tr><td>🗄️ Tools</td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></td></tr>
-<tr><td>📚 Eksplorasi</td><td>Framework JS dasar · struktur project yang lebih rapi</td></tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Design/palette-line.svg" width="18"/> Frontend</td>
+<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Device/router-line.svg" width="18"/> Backend</td>
+<td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></td>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/System/tools-line.svg" width="18"/> Tools</td>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></td>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Education/book-open-line.svg" width="18"/> Eksplorasi</td>
+<td>Framework JS dasar · struktur project yang lebih rapi</td>
+</tr>
 </table>
 
 <br/>
 
-## 💼 Featured Projects
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Business/briefcase-line.svg" width="26" height="26"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📚 [MyOnline-Books](https://github.com/Adilsa2254/MyOnline-Books)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Document/book-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/MyOnline-Books">MyOnline-Books</a></h3>
 Website untuk mencari & meminjam buku secara online.
-`PHP`
+<code>PHP</code>
 
 </td>
 <td width="50%">
 
-### 🏔️ [Info-Gunung-Gamping-DIY](https://github.com/Adilsa2254/Info-Gungung-Gamping-Diy)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Map/map-pin-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/Info-Gungung-Gamping-Diy">Info-Gunung-Gamping-DIY</a></h3>
 Info wisata Gunung Gamping, Yogyakarta (tugas UAS).
-`CSS`
+<code>CSS</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏔️ [Seputar-Gunung-Gamping-DIY](https://github.com/Adilsa2254/Seputar-gunung-Gamping-diy)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Map/map-pin-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/Seputar-gunung-Gamping-diy">Seputar-Gunung-Gamping-DIY</a></h3>
 Website seputar informasi Gunung Gamping.
-`CSS`
+<code>CSS</code>
 
 </td>
 <td width="50%">
 
-### 💻 [PemrogramanWeb01](https://github.com/Adilsa2254/PemrogramanWeb01)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Development/terminal-box-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/PemrogramanWeb01">PemrogramanWeb01</a></h3>
 Praktikum pertama mata kuliah Pemrograman Web.
-`CSS`
+<code>CSS</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🟨 [Learn-path-js](https://github.com/Adilsa2254/Learn-path-js)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Logos/javascript-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/Learn-path-js">Learn-path-js</a></h3>
 Repo belajar dasar-dasar JavaScript.
-`HTML`
+<code>HTML</code>
 
 </td>
 <td width="50%">
 
-### 📌 [BooksPins.com](https://github.com/Adilsa2254/BooksPins.com)
+<h3><img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/System/pushpin-line.svg" width="20"/> <a href="https://github.com/Adilsa2254/BooksPins.com">BooksPins.com</a></h3>
 Project eksplorasi JavaScript.
-`JavaScript`
+<code>JavaScript</code>
 
 </td>
 </tr>
@@ -114,7 +126,7 @@ Project eksplorasi JavaScript.
 
 <br/>
 
-## 📈 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Business/bar-chart-2-line.svg" width="26" height="26"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adilsa2254&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -135,7 +147,7 @@ Project eksplorasi JavaScript.
 
 <br/>
 
-## 🌱 Currently Learning
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Others/seedling-line.svg" width="26" height="26"/> Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Struktur%20Project-1a1b27?style=flat-square&color=414868"/>
@@ -146,7 +158,7 @@ Project eksplorasi JavaScript.
 
 <br/>
 
-## 🤝 Let's Connect
+## <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/icons/Communication/hand-heart-line.svg" width="26" height="26"/> Let's Connect
 
 <p align="left">
   <a href="mailto:[ISI_EMAIL_KAMU@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
