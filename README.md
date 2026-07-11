@@ -59,21 +59,21 @@ I am a passionate developer with years of experience creating beautiful and func
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=ff6f9c&icon_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilsa2254&show_icons=true&theme=radical&hide_border=true&title_color=ff6f9c&icon_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsa2254&layout=compact&theme=radical&hide_border=true&title_color=ff6f9c&text_color=ffffff&bg_color=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1a1a2e&ring=ff6f9c&fire=ff6f9c&currStreakLabel=ff6f9c"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilsa2254&theme=radical&hide_border=true&background=1a1a2e&ring=ff6f9c&fire=ff6f9c&currStreakLabel=ff6f9c"/>
 </p>
 
 ### 🐍 Contribution snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adilsa2254/Adilsa2254/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adilsa2254/Adilsa2254/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Adilsa2254/Adilsa2254/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
