@@ -77,8 +77,7 @@ I am a passionate developer with years of experience creating beautiful and func
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
-
+---
 
 ### 🌸 Activity graph
  
