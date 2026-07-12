@@ -73,7 +73,6 @@ I am a passionate developer with years of experience creating beautiful and func
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 ### 🌸 Contribution snake
 
@@ -93,3 +92,4 @@ I am a passionate developer with years of experience creating beautiful and func
 </p>
  -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
