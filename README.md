@@ -67,6 +67,14 @@ I am a passionate developer with years of experience creating beautiful and func
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilsa2254&theme=radical&hide_border=true&background=1a1a2e&ring=ff6f9c&fire=ff6f9c&currStreakLabel=ff6f9c"/>
 </p>
 
+
+### 🌸 Quote of the day
+ 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
+
 ### 🌸 Contribution snake
 
 <p align="center">
@@ -85,9 +93,3 @@ I am a passionate developer with years of experience creating beautiful and func
 </p>
  -->
 
-### 🌸 Quote of the day
- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:d6336c,100:1a1a2e&height=100&section=footer" width="100%"/>
