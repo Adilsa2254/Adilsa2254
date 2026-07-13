@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B30000&center=true&vCenter=true&width=500&lines=I'm+a+Student;Frontend+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Adilsa2254/Adilsa2254/main/assets/floating-cat.mp4" width="550" autoplay loop muted playsinline style="border-radius: 8px;"></video>
+  <img src="assets/floating-cat.gif" width="550" style="border-radius: 8px;" alt="Floating Cat" />
 </p>
 
 <p align="center">
