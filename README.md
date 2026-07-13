@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B30000&center=true&vCenter=true&width=500&lines=I'm+a+Student;Frontend+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="assets/yamada.gif" width="550" style="border-radius: 8px;" alt="Yamada Smoking Behind the Supermarket with You" />
+  <img src="assets/anime-girl-flowers.gif" width="550" style="border-radius: 8px;" alt="Anime Girl Amidst Flowers" />
 </p>
 
 <p align="center">
