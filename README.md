@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B30000&center=true&vCenter=true&width=500&lines=I'm+a+Student;Frontend+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="assets/ghibli.gif" width="550" style="border-radius: 8px;" alt="Ghibli Aesthetic" />
+  <video src="assets/floating-cat.mp4" width="550" autoplay loop muted playsinline style="border-radius: 8px;"></video>
 </p>
 
 <p align="center">
@@ -57,8 +57,8 @@ I am a passionate student and developer interested in building beautiful, user-f
 
 ### ▎ Education
 
-- **Bachelor of Computer Science / Information Technology** — Universitas Mercu Buana Yogyakarta (2023–Present)
-- **Web Development Course / Bootcamp** — (Tulis nama lembaga jika ada)
+- **Bachelor of Computer Science / Information Technology** : Universitas Mercu Buana Yogyakarta (2023–Present)
+- **Web Development Course / Bootcamp** : (Comming soon)
 
 ---
 
