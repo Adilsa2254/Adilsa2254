@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 18 * * *"     # Jalan otomatis tiap hari jam 18:00 UTC (01:00 WIB)
   workflow_dispatch: {}       # Bisa dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
 
 jobs:
   build:
