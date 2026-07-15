@@ -85,6 +85,16 @@ I am a passionate student and developer interested in building beautiful, user-f
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0a0102&quoteColor=e0cfd0&authorColor=a81a24&symbolColor=800c14" />
 </p>
 
+
+
+### ▎ 3D Contribution Calendar
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
+</p>
+
+
+
 ### ▎ Contribution Snake
 
 <p align="center">
@@ -95,10 +105,5 @@ I am a passionate student and developer interested in building beautiful, user-f
   </picture>
 </p>
 
-### ▎ 3D Contribution Calendar
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a81a24,50:800c14,100:0a0102&height=100&section=footer" width="100%"/>
