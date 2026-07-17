@@ -76,7 +76,7 @@ I am a passionate student and developer interested in building beautiful, user-f
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adilsa2254&hide_border=true&background=010614&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=cce6ff&currStreakNum=ffffff&sideNums=ffffff&dates=80b3ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilsa2254&hide_border=true&background=010614&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=cce6ff&currStreakNum=ffffff&sideNums=ffffff&dates=80b3ff" />
 </p>
 
 ### ▎ Quote of the day
