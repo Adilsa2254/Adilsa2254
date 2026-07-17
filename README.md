@@ -62,6 +62,28 @@ I am a passionate student and developer interested in building beautiful, user-f
 
 ---
 
+### ▎ ✨ Q&A / Fun Facts
+
+<details>
+  <summary><b> 🚀 Apa yang sedang saya kerjakan sekarang?</b></summary>
+  <br/>
+  <p>Saat ini saya sedang fokus mendalami <b>Frontend Development</b>, khususnya mempelajari <i>framework</i> modern seperti Next.js, dan juga membangun antarmuka web (UI/UX) yang lebih interaktif!</p>
+</details>
+
+<details>
+  <summary><b> 🎧 Musik andalan saat ngoding?</b></summary>
+  <br/>
+  <p>Saya biasanya mendengarkan musik <i>Lo-Fi beats</i> atau lagu-lagu bergenre <i>Synthwave</i> untuk menjaga fokus saat menulis kode.</p>
+</details>
+
+<details>
+  <summary><b> ⚡ Apa rahasia interaktif di bagian ini?</b></summary>
+  <br/>
+  <p>Selamat, Anda baru saja menemukannya! Fitur buka-tutup (akordeon) ini murni dibangun dengan elemen HTML bawaan yang didukung penuh oleh GitHub Markdown. Keren, kan? 🎉</p>
+</details>
+
+---
+
 ### ▎ GitHub Stats
 
 <table align="center" border="0">
