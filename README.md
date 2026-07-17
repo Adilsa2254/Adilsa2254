@@ -62,24 +62,24 @@ I am a passionate student and developer interested in building beautiful, user-f
 
 ---
 
-### ▎ ✨ Q&A / Fun Facts
+### ▎ Frequently Asked Questions
 
 <details>
-  <summary><b> 🚀 Apa yang sedang saya kerjakan sekarang?</b></summary>
+  <summary><b>Current Learning Focus</b></summary>
   <br/>
-  <p>Saat ini saya sedang fokus mendalami <b>Frontend Development</b>, khususnya mempelajari <i>framework</i> modern seperti Next.js, dan juga membangun antarmuka web (UI/UX) yang lebih interaktif!</p>
+  <p>I am currently deepening my knowledge in <b>Frontend Development</b>, particularly working with modern JavaScript frameworks such as Next.js. I am also actively improving my skills in building intuitive UI/UX.</p>
 </details>
 
 <details>
-  <summary><b> 🎧 Musik andalan saat ngoding?</b></summary>
+  <summary><b>Professional Goals</b></summary>
   <br/>
-  <p>Saya biasanya mendengarkan musik <i>Lo-Fi beats</i> atau lagu-lagu bergenre <i>Synthwave</i> untuk menjaga fokus saat menulis kode.</p>
+  <p>My objective is to become a proficient Full-Stack Developer. Beyond frontend technologies, I am expanding my expertise in backend systems and software architecture to build robust web applications.</p>
 </details>
 
 <details>
-  <summary><b> ⚡ Apa rahasia interaktif di bagian ini?</b></summary>
+  <summary><b>Collaboration Opportunities</b></summary>
   <br/>
-  <p>Selamat, Anda baru saja menemukannya! Fitur buka-tutup (akordeon) ini murni dibangun dengan elemen HTML bawaan yang didukung penuh oleh GitHub Markdown. Keren, kan? 🎉</p>
+  <p>I am highly open to collaborations on innovative projects and open-source contributions. If you are looking for a dedicated developer or wish to discuss web technologies, feel free to reach out via my professional networks.</p>
 </details>
 
 ---
